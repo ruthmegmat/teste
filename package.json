@@ -1,0 +1,26 @@
+{
+  "name": "teste",
+  "version": "16.4.0",
+  "description": "Dia 16/11/2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ruthmegmat",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthmegmat/teste.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ruthmegmat/teste/issues"
+  },
+  "homepage": "https://github.com/ruthmegmat/teste#readme",
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "chalk": "^5.1.2",
+    "cli-color": "^2.0.3",
+    "node-fetch": "^3.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
